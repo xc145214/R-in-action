@@ -1,3 +1,4 @@
-#忽略gitignore文件
+# 忽略gitignore文件
+
 .history
 .idea/
